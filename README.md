@@ -17,10 +17,12 @@ linha que é feita:
 
 depois que as cápsulas tomam o hit:
 
-![image](https://github.com/diogoodorta/Raycasthit/assets/101647390/e0b6a72e-3b75-460e-94fe-e87a3f83cd52)
+![image](https://github.com/diogoodorta/RayCast/assets/101647390/a73258d2-cc1c-4686-87c7-ca7bb317343e)
+
 
 Na parte da iluminação: Tiramos o Directional Light, para a cena ficar mais escura e criamos um sistema para "lanterna". Na outra mão do personagem, colocamos um Spot Light e dentro do Spot Light, foi colocado o script "luz", que ao apertar o botão direito do mouse, a luz acende e ao apertar de novo, ela apaga. Também mexemos na intensidade dela e no seu ângulo. 
 
 Luz que é criada ao apertar o botão direito do mouse:
 
-![image](https://github.com/diogoodorta/Raycasthit/assets/101647390/aa29c8ba-5d54-46bb-a65c-3bb321770da2)
+![image](https://github.com/diogoodorta/RayCast/assets/101647390/0489e3da-d586-42dc-95a2-72b79f5a14d6)
+

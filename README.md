@@ -8,6 +8,8 @@ Explicação da cena:
 Foi utilizada a cápsula para o personagem e os inimigos, no personagem foi colocado o script de "movimento", fazendo ele se mover e rotacionar, menos para cima e para baixo. Também foi colocado dois cubos para representar as suas mãos. 
 
 RayCast: O script do Raycast, foi colado em uma das mãos do personagem, esse script cria uma linha azul, que só pode ser vista no modo Scene, que ao entrar em contato com as cápsulas inimigas e dar o hit, as cápsulas vão mudar para a cor verde, essas cápsulas possuem a tag "RayCast" para só funcionar com elas.
+
+
 linha que é feita:
 
 ![image](https://github.com/diogoodorta/RayCast/assets/101647390/c8c63ac2-19ae-4bee-b992-c41073cb18c6)
